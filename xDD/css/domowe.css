@@ -1,0 +1,20 @@
+table{text-align: center;
+border-color: black;
+}
+th.yellow{
+  background-color: yellow;
+}
+img{height: 100px;
+width: 150px;
+}
+th.blue {background-color: blue;
+width: 100px;
+}
+th.green {
+  background-color: green;
+color: red;
+}
+th.grey {
+  background-color: grey;
+  color: red;
+}
